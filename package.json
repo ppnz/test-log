@@ -1,12 +1,16 @@
 {
-  "name": "test-log",
+  "name": "@ppnz/test-log",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "keywords": [
+    "your",
+    "keywords",
+    "here"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
